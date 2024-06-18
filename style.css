@@ -1,0 +1,12 @@
+.nav{
+  margin: 20px auto;
+  width: 400px;
+}
+
+.container col-xxl-8 px-4 py-5{
+  margin: center;
+}
+
+.display-5 fw-bold text-body-emphasis lh-1 mb-3{
+  text-align: center;
+}
